@@ -1,4 +1,4 @@
-# 📖 Dumi Template
+# 🌟 Dumi Template
 
 A Umi-based doc template can assist you to develop libraries & write docs.
 
