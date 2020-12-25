@@ -102,6 +102,8 @@ https://umijs.github.io/dumi-template/
           <strong>GGEditor</strong>
         </a>
       </td>
+    </tr>
+    <tr>
       <td align="center">
         <a target="_blank" href="https://remaxjs.org">
           <img

@@ -102,6 +102,8 @@ The rest of the documents can be consulted by yourself.
           <strong>GGEditor</strong>
         </a>
       </td>
+    </tr>
+    <tr>
       <td align="center">
         <a target="_blank" href="https://remaxjs.org">
           <img
