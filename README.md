@@ -6,7 +6,7 @@ English | [简体中文](./README.zh-CN.md)
 
 ## 🚀 How to use?
 
-![](./use.png)
+![](https://gw.alipayobjects.com/zos/bmw-prod/a63e4677-ed00-447a-9778-af5168faada7/kj80qcer_w959_h176.png)
 
 ## ✨ Online preview
 
