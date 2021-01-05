@@ -1,7 +1,6 @@
 ---
 nav:
   title: Components
-  title.zh-CN: 组件
   path: /components
 ---
 
