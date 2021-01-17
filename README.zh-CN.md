@@ -1,12 +1,12 @@
 # 🌟 Dumi Template
 
-基于 Umi、为组件开发场景而生的文档模板
+为组件开发场景而生的文档模板
 
 [English](./README.md) | 简体中文
 
 ## 🚀 如何使用？
 
-![](./use.png)
+![](https://gw.alipayobjects.com/zos/bmw-prod/91791904-cdde-4408-959d-72fd0c9049b1/kj80x6lv_w1918_h352.png)
 
 ## ✨ 在线预览
 
@@ -46,99 +46,80 @@ https://umijs.github.io/dumi-template/
 ## 💖 谁在使用？
 
 <table>
-  <tbody>
-    <tr>
-      <td align="center">
-        <a target="_blank" href="https://umijs.org">
-          <img
-            width="32"
-            src="https://gw.alipayobjects.com/zos/bmw-prod/598d14af-4f1c-497d-b579-5ac42cd4dd1f/k7bjua9c_w132_h130.png"
-          />
-          <br>
-          <strong>UmiJS</strong>
-        </a>
-      </td>
-      <td align="center">
-        <a target="_blank" href="https://ahooks.js.org/">
-          <img
-            height="32"
-            style="vertical-align: -0.32em; margin-right: 8px;"
-            src="https://ahooks.js.org/logo.svg"
-          />
-          <br>
-          <strong>ahooks</strong>
-        </a>
-      </td>
-      <td align="center">
-        <a target="_blank" href="https://procomponents.ant.design/">
-          <img
-            width="32"
-            style="vertical-align: -0.32em; margin-right: 8px;"
-            src="https://gw.alipayobjects.com/zos/rmsportal/KDpgvguMpGfqaHPjicRK.svg"
-          />
-          <br>
-          <strong>Pro Components</strong>
-        </a>
-      </td>
-      <td align="center">
-        <a target="_blank" href="https://github.com/react-component">
-          <img
-            width="32"
-            style="vertical-align: -0.32em; margin-right: 8px;"
-            src="https://avatars3.githubusercontent.com/u/9441414?s=200&v=4"
-          />
-          <br>
-          <strong>react-component</strong>
-        </a>
-      </td>
-      <td align="center">
-        <a target="_blank" href="https://ggeditor.com">
-          <img
-            width="32"
-            style="vertical-align: -0.32em; margin-right: 8px;"
-            src="https://img.alicdn.com/tfs/TB1FFA1CFP7gK0jSZFjXXc5aXXa-214-200.png"
-          />
-          <br>
-          <strong>GGEditor</strong>
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <a target="_blank" href="https://remaxjs.org">
-          <img
-            width="32"
-            style="vertical-align: -0.32em; margin-right: 8px;"
-            src="https://gw.alipayobjects.com/mdn/rms_b5fcc5/afts/img/A*1NHAQYduQiQAAAAAAAAAAABkARQnAQ"
-          />
-          <br>
-          <strong>Remax</strong>
-        </a>
-      </td>
-      <td align="center">
-        <a target="_blank" href="https://lightproxy.org">
-          <img
-            width="32"
-            style="vertical-align: -0.32em; margin-right: 8px;"
-            src="https://user-images.githubusercontent.com/5436704/81533849-83e00f00-9399-11ea-943d-ac5fd4653906.png"
-          />
-          <br>
-          <strong>LightProxy</strong>
-        </a>
-      </td>
-      <td align="center">
-        <a target="_blank" href="https://juejin-im.github.io/open-source/">
-          <img
-            width="32"
-            style="vertical-align: -0.32em; margin-right: 8px;"
-            src="https://avatars3.githubusercontent.com/u/69633008?s=200&v=4"
-          />
-          <br>
-          <strong>juejin-im</strong>
-        </a>
-      </td>
-    </tr>
-  </tbody>
+  <tr>
+    <td width="160" align="center">
+      <a target="_blank" href="https://ahooks.js.org/">
+        <img src="https://ahooks.js.org/logo.svg" height="40" />
+        <br />
+        <strong>ahooks</strong>
+      </a>
+    </td>
+    <td width="160" align="center">
+      <a target="_blank" href="https://alitajs.com/">
+        <img src="https://user-images.githubusercontent.com/11746742/104428726-c2c90300-55bf-11eb-9b84-d52a86050b9a.png" height="40" />
+        <br />
+        <strong>alitajs</strong>
+      </a>
+    </td>
+    <td width="160" align="center">
+      <a target="_blank" href="https://ggeditor.com">
+        <img src="https://img.alicdn.com/tfs/TB1FFA1CFP7gK0jSZFjXXc5aXXa-214-200.png" height="40" />
+        <br />
+        <strong>GGEditor</strong>
+      </a>
+    </td>
+    <td width="160" align="center">
+      <a target="_blank" href="https://actions-cool.github.io/issues-helper/">
+        <img src="https://avatars1.githubusercontent.com/u/73879334?s=200&v=4" height="40" />
+        <br />
+        <strong>issues-helper</strong>
+      </a>
+    </td>
+    <td width="160" align="center">
+      <a target="_blank" href="https://juejin-im.github.io/open-source/">
+        <img src="https://avatars3.githubusercontent.com/u/69633008?s=200&v=4" height="40" />
+        <br />
+        <strong>juejin-im</strong>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="160" align="center">
+      <a target="_blank" href="https://lightproxy.org">
+        <img src="https://user-images.githubusercontent.com/5436704/81533849-83e00f00-9399-11ea-943d-ac5fd4653906.png" height="40" />
+        <br />
+        <strong>LightProxy</strong>
+      </a>
+    </td>
+    <td width="160" align="center">
+      <a target="_blank" href="https://procomponents.ant.design/">
+        <img src="https://gw.alipayobjects.com/zos/rmsportal/KDpgvguMpGfqaHPjicRK.svg" height="40" />
+        <br />
+        <strong>Pro Components</strong>
+      </a>
+    </td>
+    <td width="160" align="center">
+      <a target="_blank" href="https://github.com/react-component">
+        <img src="https://avatars3.githubusercontent.com/u/9441414?s=200&v=4" height="40" />
+        <br />
+        <strong>react-component</strong>
+      </a>
+    </td>
+    <td width="160" align="center">
+      <a target="_blank" href="https://remaxjs.org">
+        <img src="https://gw.alipayobjects.com/mdn/rms_b5fcc5/afts/img/A*1NHAQYduQiQAAAAAAAAAAABkARQnAQ" height="40" />
+        <br />
+        <strong>Remax</strong>
+      </a>
+    </td>
+    <td width="160" align="center">
+      <a target="_blank" href="https://umijs.org">
+        <img src="https://gw.alipayobjects.com/zos/bmw-prod/598d14af-4f1c-497d-b579-5ac42cd4dd1f/k7bjua9c_w132_h130.png" height="40" />
+        <br />
+        <strong>UmiJS</strong>
+      </a>
+    </td>
+  </tr>
 </table>
 
 ### README 徽章

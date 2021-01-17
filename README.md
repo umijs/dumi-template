@@ -1,6 +1,6 @@
 # 🌟 Dumi Template
 
-A Umi-based doc template can assist you to develop libraries & write docs.
+A doc template can assist you to develop libraries & write docs.
 
 English | [简体中文](./README.zh-CN.md)
 
@@ -55,6 +55,13 @@ The rest of the documents can be consulted by yourself.
       </a>
     </td>
     <td width="160" align="center">
+      <a target="_blank" href="https://alitajs.com/">
+        <img src="https://user-images.githubusercontent.com/11746742/104428726-c2c90300-55bf-11eb-9b84-d52a86050b9a.png" height="40" />
+        <br />
+        <strong>alitajs</strong>
+      </a>
+    </td>
+    <td width="160" align="center">
       <a target="_blank" href="https://ggeditor.com">
         <img src="https://img.alicdn.com/tfs/TB1FFA1CFP7gK0jSZFjXXc5aXXa-214-200.png" height="40" />
         <br />
@@ -75,6 +82,8 @@ The rest of the documents can be consulted by yourself.
         <strong>juejin-im</strong>
       </a>
     </td>
+  </tr>
+  <tr>
     <td width="160" align="center">
       <a target="_blank" href="https://lightproxy.org">
         <img src="https://user-images.githubusercontent.com/5436704/81533849-83e00f00-9399-11ea-943d-ac5fd4653906.png" height="40" />
@@ -82,7 +91,6 @@ The rest of the documents can be consulted by yourself.
         <strong>LightProxy</strong>
       </a>
     </td>
-  </tr>  <tr>
     <td width="160" align="center">
       <a target="_blank" href="https://procomponents.ant.design/">
         <img src="https://gw.alipayobjects.com/zos/rmsportal/KDpgvguMpGfqaHPjicRK.svg" height="40" />
@@ -110,8 +118,6 @@ The rest of the documents can be consulted by yourself.
         <br />
         <strong>UmiJS</strong>
       </a>
-    </td>
-    <td width="160" align="center">
     </td>
   </tr>
 </table>
