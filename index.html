@@ -11,17 +11,28 @@
       type="image/x-icon"
       href="https://user-images.githubusercontent.com/9554297/83762004-a0761b00-a6a9-11ea-83b4-9c8ff721d4b8.png"
     />
-    <link rel="stylesheet" href="/dumi-template/umi.998844c6.css" />
+    <link rel="stylesheet" href="/dumi-template/umi.a1725655.css" />
     <script>
       window.routerBase = "/dumi-template/";
     </script>
     <script>
-      //! umi version: 3.3.3
+      //! umi version: 3.4.15
+    </script>
+    <script>
+      !(function () {
+        var e = localStorage.getItem("dumi:prefers-color"),
+          t = window.matchMedia("(prefers-color-scheme: dark)").matches,
+          r = ["light", "dark", "auto"];
+        document.documentElement.setAttribute(
+          "data-prefers-color",
+          e === r[2] ? (t ? r[1] : r[0]) : r.includes(e) ? e : r[0]
+        );
+      })();
     </script>
   </head>
   <body>
     <div id="root"></div>
 
-    <script src="/dumi-template/umi.a520e886.js"></script>
+    <script src="/dumi-template/umi.411822c6.js"></script>
   </body>
 </html>
